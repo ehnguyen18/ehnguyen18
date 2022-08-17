@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ehnguyen18
+- 👋 Hi, I’m Eric
 - 👀 I’m interested in movies and videos games
 - 🌱 I’m currently learning C++, Python and Java
 - 💞️ I’m working to become an Software Developer/A.I Engineer
